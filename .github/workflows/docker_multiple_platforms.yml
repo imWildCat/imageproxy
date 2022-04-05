@@ -1,4 +1,4 @@
-name: docker-multiple-platform-ci
+name: 'Docker Multi-Platform CI'
 
 on:
   push:
